@@ -1,2 +1,5 @@
 # git_learning
-GitHub実践ハンズオン
+
+GitHub 実践ハンズオン
+
+変更点<-追記
